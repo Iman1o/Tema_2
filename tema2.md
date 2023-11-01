@@ -110,7 +110,7 @@ print(f'Сегодня {pud} {rub} {jok}. ', end=''); print( 'Всего хор�
 ```
 
 ### Результат.
-![Меню]()
+![Меню](https://github.com/Iman1o/Tema_2/blob/main/pic/5self.PNG)
 
 ## Выводы
 
