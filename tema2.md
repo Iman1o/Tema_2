@@ -53,7 +53,7 @@ print(pud, rub, jok)
 ```
 
 ### Результат.
-![Меню]()
+![Меню](https://github.com/Iman1o/Tema_2/blob/main/pic/2self.PNG)
 - Оформленный код
 - Скрины консоли
 - Развернутый вывод
