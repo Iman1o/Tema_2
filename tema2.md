@@ -165,7 +165,8 @@ length = len(string); print( length)
 ### Переведите предложение ‘HELLO WORLD’ в нижний регистр. Программа должна занимать не более двух строк редактора кода. 
 
 ```python
-
+string = "HELLO WORLD" 
+print(string.lower())
 ```
 
 ### Результат.
