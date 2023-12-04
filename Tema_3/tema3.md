@@ -52,7 +52,7 @@ for char in charlist: print(char)
 ```
 
 ### Результат.
-![Меню]()
+![Меню](https://github.com/Iman1o/Tema_2/blob/Tema_3/Tema_3/pic/2self.PNG)
 
 ## Выводы
 
