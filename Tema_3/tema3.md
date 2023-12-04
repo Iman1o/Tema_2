@@ -58,6 +58,6 @@ for char in charlist: print(char)
 
 В данном коде выводятся фраза «Hello World» в обратном порядке и буквами в столбик с помощью функции  `print()`  цикла  `for` и функции `reverse()`.
 
-1. `charlist = list('Hello World') `: `charlist`это переменная, которая является списком.
-2. `charlist.reverse() `: `reverse()` используется для изменения порядка сортировки элементов.
-3. `for char in charlist: print(char) `: цикл  `for` функция `print(char)` выводят фразу «Hello World» в том порядке, который нам нужен.
+1. `charlist = list('Hello World') `:  `charlist`это переменная, которая является списком.
+2. `charlist.reverse() `: Метод `reverse()` используется для изменения порядка сортировки элементов.
+3. `for char in charlist:  print(char) `: цикл  `for` функция `print(char)` выводят фразу «Hello World» в том порядке, который нам нужен.
