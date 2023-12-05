@@ -118,9 +118,9 @@ print(a)
 ```
 
 ### Результат.
-![Меню]()
-![Меню]()
-![Меню]()
+![Меню](https://github.com/Iman1o/Tema_2/blob/Tema_3/Tema_3/pic/4.0self.PNG)
+![Меню](https://github.com/Iman1o/Tema_2/blob/Tema_3/Tema_3/pic/4.1self.PNG)
+![Меню](https://github.com/Iman1o/Tema_2/blob/Tema_3/Tema_3/pic/4self.PNG)
 
 ## Выводы
 
